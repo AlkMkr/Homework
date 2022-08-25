@@ -1,5 +1,0 @@
-number = int(input('Enter number for operation: '))
-oneMore = (number + 1)
-oneLess = (number - 1)
-print('Next number: ' + str(oneMore))
-print('Previous number: ' + str(oneLess))
